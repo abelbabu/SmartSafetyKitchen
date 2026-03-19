@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "151479696254",
+    "firebase_url": "https://smartkitchensafety-1ab6b-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "smartkitchensafety-1ab6b",
+    "storage_bucket": "smartkitchensafety-1ab6b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:151479696254:android:f3e6e9a8ef5dd0f9da512f",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9Tl0ncn9tOppRYg0HAcAwD7DJahZvuls"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

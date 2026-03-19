@@ -17,10 +17,10 @@ DHT dht(DHT_PIN, DHTTYPE);
 
 // ---------------- WIFI ----------------
 #define WIFI_SSID "Abel"
-#define WIFI_PASSWORD "00000000"
+#define WIFI_PASSWORD "00000xxx"
 
 // ---------------- FIREBASE ----------------
-#define API_KEY "AIzaSyBRci3Gafmd9mIPF5Ev4-HY28AckK1B56I"
+#define API_KEY "AIzaSyBRci3Gafmd9mIPF5Ev4-HY28AckK1Bxxx"
 #define DATABASE_URL "https://smartkitchensafety-1ab6b-default-rtdb.asia-southeast1.firebasedatabase.app/"
 #define USER_EMAIL "kitchen@test.com"
 #define USER_PASSWORD "12345678"
